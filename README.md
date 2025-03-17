@@ -1,6 +1,6 @@
 # Instagram-Tools
 Instagram Tools Python
-Accepting any requests, script basically with library!
+Accepting any requests, script basically using library!
 1. Create cookies account
 2. Profile Edit
 3. Fetch Profile
